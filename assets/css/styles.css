@@ -25,23 +25,17 @@
   }
   
   .titulo {
-    font-size: 4rem;
-
+    font-size: 3rem; 
+    font-weight: 900;
   }
   
   .caja {
-    max-width: 90%; 
-    padding-top: 7rem;
+    padding: 2rem;
   }
-  
   
   @media (min-width: 768px) {
     .titulo {
-      font-size: 4rem;
-    }
-  
-    .caja {
-      width: 90%;
+      font-size: 4rem; 
     }
   }
 /**TIMELINE**/
