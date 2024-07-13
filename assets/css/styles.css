@@ -38,6 +38,11 @@
       font-size: 4rem; 
     }
   }
+
+  .social-icons a {
+    color: #fff; 
+  }
+  
 /**TIMELINE**/
 
 .main-timeline .timeline .timeline-content {
