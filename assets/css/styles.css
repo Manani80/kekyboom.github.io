@@ -31,6 +31,7 @@
   
   .caja {
     padding: 2rem;
+    max-width: 70%;
   }
   
   @media (min-width: 768px) {
@@ -42,7 +43,7 @@
   .social-icons a {
     color: #fff; 
   }
-  
+
 /**TIMELINE**/
 
 .main-timeline .timeline .timeline-content {
